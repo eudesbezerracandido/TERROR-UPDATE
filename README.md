@@ -1,8 +1,14 @@
 # TERROR-UPDATE
 
 
-
-
+<item>
+<title>[COLOR silver][B] OLHOS FAMINTOS- O RENASCIMENTO DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9284B764FBB74C9CB07DD475A0ACB3A8BE9B219$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d668eda7b5161c7f87face28bf02f25c3847aba8$nome=LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p3JX4YPcJOCPp8MSjL6mg7ZhHgA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] SACRIFICIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
