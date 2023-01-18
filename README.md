@@ -1,5 +1,17 @@
 # TERROR-UPDATE
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] SACRIFICIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e701263e44c99437c03c452d90c22dc6d10c6d59</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xXI5Lg6mJLEesTggRJBrq50vrqU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Isaac e sua esposa grávida visitam uma remota vila norueguesa para reivindicar uma herança inesperada. O casal se vê preso em um pesadelo quando se deparam com um culto sinistro que adora uma diádade que habita o mar.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] VALE DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da01e079835027e614b455742316776658b3f421</link>
