@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] SNOW FALL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56972b391cb55ffd312a9069cf85aa8e5cb48d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que uma tempestade de inverno prende cinco amigos em uma cabana remota sem energia e com pouca comida, a desorientação lentamente reivindica sua sanidade enquanto cada um deles sucumbe ao medo de que a própria neve possa estar contaminada ou de alguma forma maligna..</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] OLHOS FAMINTOS- O RENASCIMENTO DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9284B764FBB74C9CB07DD475A0ACB3A8BE9B219$nome=DUBLADO NÃO OFICIAL</link>
