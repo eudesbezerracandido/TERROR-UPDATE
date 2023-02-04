@@ -51,3 +51,11 @@
 <info>Quando Darren, Michelle, Will e Christy se inscreveram para trabalhar como monitores em um acampamento, tinham visões de um verão divertido em um país estrangeiro. Durante suas últimas horas de “liberdade” antes de o acampamento abrir suas portas, os jovens estão determinados a ter uma noite da qual nunca se esquecerão – e eles não ficarão desapontados. Antes mesmo de a festa começar, as coisas ficam feias. Uma infecção silenciosa se espalha, um amigo fica louco de repente. Tem início um selvagem jogo de gato e rato, não está claro quem está infectado e quem não, e o perseguidor pode se tornar o perseguido em um piscar de olhos. Bem-vindos ao acampamento de verão.</info>
 </item> 
 
+<item>
+<title>[COLOR silver][B] O LOBO VIKINGS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1764d6831465a57829a8ecb127f2b403d8b17e17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Aos dezessete anos, Thale acaba de se mudar com seus pais para uma pequena cidade depois que sua mãe conseguiu um novo emprego na polícia local. Depois que uma estudante é brutalmente morta em uma festa, ela se torna uma testemunha chave.</info>
+</item> 
+
