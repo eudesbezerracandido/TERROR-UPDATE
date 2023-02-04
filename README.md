@@ -1,6 +1,12 @@
 # TERROR-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] NIX - A ENTIDADE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d728126932d131a1a95728371c2ae2990f9328c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/57NX3hO40PrxBQerdT7sFBFfS8a.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma tragédia em um lago misterioso assombra a família Coyle, pois eles devem enfrentar uma entidade assustadora que se revelou novamente e quer destruí-los para sempre. Inspirado no folclore germânico.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] NAVIO DE SANGUE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
