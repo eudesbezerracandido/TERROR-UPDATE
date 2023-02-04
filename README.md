@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] NAVIO DE SANGUE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56aaee0acc1bd7c50c064a5648e535620463df52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uoOER1jlLCgxxY9IeyuZVKQWX5z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em algum lugar no Atlântico Norte, de 1945. Uma pequena embarcação à deriva no mar e, nela, os sobreviventes de um navio-hospital sem comida, água ou abrigo. Tudo parece perdido - até que um navio anti-minas alemão abandonado surge, dando-lhes uma última chance de sobrevivência.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] SNOW FALL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56972b391cb55ffd312a9069cf85aa8e5cb48d6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg</thumbnail>
