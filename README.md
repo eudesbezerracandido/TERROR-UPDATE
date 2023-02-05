@@ -1,6 +1,16 @@
 # TERROR-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B]  FRESH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d14f83c95dbed5bc670c2e462d4b7d951d9045e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Noa conhece o sedutor Steve em um supermercado e, dada sua frustração com aplicativos de namoro, se arrisca e lhe dá seu número. Após o primeiro encontro, Noa se apaixona e aceita o convite de Steve para uma escapadela romântica de fim de semana, apenas para descobrir que seu novo amante esconde alguns apetites incomuns.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BATEM Á PORTA HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E198334007D6EB8EB50F9170CC208651DA4AA065</link>
