@@ -1,5 +1,14 @@
 # TERROR-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] BATEM Á PORTA HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E198334007D6EB8EB50F9170CC208651DA4AA065</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qctCXXSM4XUpZntb9wHp9RNSwdP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante as férias, uma menina e seus pais são feitos reféns por estranhos armados que exigem que a família faça uma escolha para evitar o apocalipse.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NIX - A ENTIDADE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d728126932d131a1a95728371c2ae2990f9328c</link>
