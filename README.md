@@ -1,7 +1,12 @@
 # TERROR-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] BLOOD LEGENDADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f25ec02494d60afc1dd83424af3a6287b616b52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jess, uma mãe e enfermeira recém-separada, muda-se para a antiga casa de fazenda de sua família com Tyler, sua filha adolescente, e Owen, seu filho de oito anos. Uma noite, o cachorro da família sente algo na floresta e sai correndo para encontrá-lo. Ele retorna alguns dias depois e ataca Owen, mordendo-o ferozmente antes que Jess possa intervir. Owen é levado às pressas para o hospital. Sua condição piora e ninguém consegue descobrir o porquê… até que Jess descobre uma cura perturbadora…</info>
+</item>
 
 <item>
 <title>[COLOR silver][B]  FRESH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
