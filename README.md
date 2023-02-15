@@ -1,5 +1,15 @@
 # TERROR-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] RE/MEMBER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cCTmZ93aBZ1FwHntiDpa2Lj92zs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma terrível lenda urbana que circula entre os alunos de um colégio está prestes a se tornar realidade: nos corredores do prédio uma criatura sobrenatural vagueia e amaldiçoou um grupo de alunos. Cada noite, Asuka e cinco de seus colegas devem vagar pela escola em busca de partes de um corpo desmembrado. Se eles não puderem encontrar e coletar todos eles, eles serão mortos um por um e desmembrados apenas para voltar à vida na manhã seguinte e reviver o ciclo mortal de novo! Uma história de fantasmas macabra e convincente. Baseado na web novel "Karada Sagashi” de Welzard.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BLOOD LEGENDADO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f25ec02494d60afc1dd83424af3a6287b616b52</link>
