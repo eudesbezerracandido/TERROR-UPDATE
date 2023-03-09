@@ -1,6 +1,13 @@
 # TERROR-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] DESCIDA AO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CIZB6YPPZMIDLTCRKWBKOCG257OGM6Y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o9oIqWFKcZirEDzjj6Ie92G60j0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A filha de Keira Woods desaparece misteriosamente no porão de sua nova casa. Ela logo descobre que existe uma entidade antiga e poderosa controlando sua casa que ela terá de enfrentar ou arriscar perder a alma de sua família para sempre.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RE/MEMBER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
