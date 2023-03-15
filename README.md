@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] O MENINO DA CASINHA É O MOSTRO QUE MORAVA AO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] O MENINO DA CASINHA ( NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C95F75BA0006ED133F4881CBAFBEAD73B7FDED39</link>
 <thumbnail></thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
