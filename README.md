@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MENINO DA CASINHA É O MOSTRO QUE MORAVA AO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C95F75BA0006ED133F4881CBAFBEAD73B7FDED39</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de seu pai, um menino e seus amigos devem lidar com demônios internos enquanto sua pequena cidade é atormentada por uma série de ataques misteriosos</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIVE ESCAPE (DUBLADO NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55D18A325BCA0C3CF7DB96EB25E8913C37EEDFEC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wK2Wbkj53Eqkzeb3AxwrDiRnFYz.jpg</thumbnail>
