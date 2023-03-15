@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] LIVE ESCAPE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] LIVE ESCAPE (DUBLADO NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55D18A325BCA0C3CF7DB96EB25E8913C37EEDFEC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wK2Wbkj53Eqkzeb3AxwrDiRnFYz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
