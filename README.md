@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] V FOR VINGANÇA - LEGENDADO (PTBR) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05D793DBA3CC7C5FF574DE3E0C166C1E12C3D554</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7Ll9OLh4TQiGwQeOoEB7epgIUkf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de saber que sua irmã mais nova escapou de uma tentativa anterior de sequestro que também matou seus pais, duas irmãs distantes devem unir forças para resgatá-la de um grupo de vampiros sedentos de sangue. Em busca de vingança e controle de uma vacina contra o vampirismo, Thorn e seu bando de mortos-vivos logo descobrem que mexeram com a família errada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MENINO DA CASINHA ( NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C95F75BA0006ED133F4881CBAFBEAD73B7FDED39</link>
 <thumbnail></thumbnail>
