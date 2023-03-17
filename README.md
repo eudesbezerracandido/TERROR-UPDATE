@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SADAKO - RESSURREIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f96100e7531e3d60b822e234be5595453c6173d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oJOgaocqPVOzodTWiHsgSCaEIcJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um livro escrito por jovens na internet parece estar conectado a mortes inexplicáveis. Um estudante universitário começa a investigar e percebe que as palavras amaldiçoadas saltam para o plano da realidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ATERRIFIER 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:435568c87a16051a6cc02ee1deb5c734950fb20e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/spkkTYZq38iyapjMy3CsxU5jK3s.jpg</thumbnail>
