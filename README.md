@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ATERRIFIER 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:435568c87a16051a6cc02ee1deb5c734950fb20e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/spkkTYZq38iyapjMy3CsxU5jK3s.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após ser ressuscitado por uma entidade sinistra, Art, o Palhaço, retorna ao Condado de Miles, onde irá à caça de uma adolescente e seu irmão mais novo na noite de Halloween.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESCIDA AO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CIZB6YPPZMIDLTCRKWBKOCG257OGM6Y</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o9oIqWFKcZirEDzjj6Ie92G60j0.jpg</thumbnail>
