@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] POOKA! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9cae63fcafdb8d9c5dd7567c96bad163dea4f2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/q6Rmmz5MYWHBqqdxhW6nsj0vgts.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ator relutante consegue um trabalho para as épocas festivas como o mascote do brinquedo mais vendido do ano, Pooka. Mas, aos poucos ele desenvolve duas personalidades – uma quando está com a fantasia e outra quando não está.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]A PROFECIA DO MAL (DHCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44cefa3d3a690134386709fccf11e957de2eb568</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>
