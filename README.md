@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] SOMBRAS DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a8145a58b69e94cb1891ad78fcde44996f6599</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iMl5TI5r5f1TEJspn2Rfld8ZkeL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de Margaret está em ordem. Ela é capaz, disciplinada e bem-sucedida. Tudo está sob controle. Isto é, até o retorno de David, levando consigo os horrores do passado de Margaret.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] POOKA! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9cae63fcafdb8d9c5dd7567c96bad163dea4f2</link>
