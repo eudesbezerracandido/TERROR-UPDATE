@@ -61,7 +61,7 @@
 <item>
 <title>[COLOR silver][B] O MENINO DA CASINHA ( NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C95F75BA0006ED133F4881CBAFBEAD73B7FDED39</link>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601603.us.archive.org/1/items/casa_20230328/MV5BYzIyMTZhZDAtM2IzMi00ZmVlLWE4ZDItM2Q2MjJmNWQ2ZDU2XkEyXkFqcGdeQXVyNDYzODA3MjA%40._V1_FMjpg_UX1000_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após a morte de seu pai, um menino e seus amigos devem lidar com demônios internos enquanto sua pequena cidade é atormentada por uma série de ataques misteriosos</info>
 </item>
