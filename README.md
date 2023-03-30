@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] JOGO DOS SEGREDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba14865cdb0d1131c884c0d416a9c255f316851c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rMIInB6QatlWIjFn01tGVVK1dz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de universitários fica preso em um jogo de tabuleiro que revela seus medos e segredos mais sinistros. Eles precisam jogar para escapar e vencer para sobreviver.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SOMBRAS DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a8145a58b69e94cb1891ad78fcde44996f6599</link>
