@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PARTO FORÇADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0774d553a354b53a0311cd766bbc0fadb9a70422</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vyNzeV6FKmfsvuwR7e0LnUu1cmW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida de uma mulher grávida muda quando ela percebe que alguém próximo a ela tem planos mais sombrios para ela e para o bebê.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGO DOS SEGREDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba14865cdb0d1131c884c0d416a9c255f316851c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rMIInB6QatlWIjFn01tGVVK1dz.jpg</thumbnail>
