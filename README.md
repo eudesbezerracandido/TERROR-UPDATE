@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] O VISITANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1239fcd2891e7c2218e394bb7497eb0c93c561a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vvHbrZ386vZDqFQVMMxWtOJ1ZQC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma série de tragédias, incluindo a morte de seu sogro, Robert e sua esposa Maia deixam sua casa em Londres para voltar para sua casa de infância. Mas quando Robert descobre no sótão um retrato antigo de um homem que é sua cara, ele desce por uma toca de coelho para descobrir a identidade desse misterioso doppelganger conhecido apenas como o visitante. Não demora muito para que ele perceba – onde o visitante vai, a morte o segue.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PARTO FORÇADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
