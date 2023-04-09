@@ -1,6 +1,13 @@
 # TERROR-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] O EXORCISTA DO PAPA ( HDCAM ) 8.5 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46BE9E1BB927F6DB732D83389DF99CDB458C0AE0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rBDAkmDdRv1bG996JPPNq0cMOVG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado nos arquivos reais do Padre Gabriele Amorth, Chefe Exorcista do Vaticano, o padre que realizou mais de 100.000 exorcismos em sua vida, faleceu em 2016 aos 91 anos. Amorth escreveu duas memórias – An Exorcist Tells His Story e An Exorcist: More Stories – e detalhou suas experiências lutando contra Satanás e demônios que agarraram as pessoas em seu mal. O filme, sendo o retrato da figura da vida real, acompanha Amorth (Russell Crowe) enquanto ele investiga a terrível possessão de um menino e acaba descobrindo uma conspiração secular que o Vaticano tentou desesperadamente manter no esquecimento.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O VISITANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
