@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] AS CRÔNICAS DO MEDO 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d33220d0d8f0d7f8389941a61b58f5f16affb13e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6TIJrOL5HFcGDE0ZMqTtt0zmnuN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mistura que desafia gênero de horror, sci-fi, mito, mistério e emoção contada como quatro contos entrelaçados em uma antologia inteligente. Fantasmas, espíritos, criaturas, demônios e mais do mundo paranormal colidem com a curiosidade racional.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O EXORCISTA DO PAPA ( HDCAM ) 8.5 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46BE9E1BB927F6DB732D83389DF99CDB458C0AE0</link>
