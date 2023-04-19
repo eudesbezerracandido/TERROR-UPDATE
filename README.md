@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] OFERENDA AO DÊMONIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce566e9ce33b87cfaa957ac47b917242159cbd8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lI8sI9pQuJmdYJgp6JuPIPg7Rqx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após o desaparecimento de uma jovem judia, o filho de um agente funerário hassídico volta para casa com sua esposa grávida na esperança de se reconciliar com seu pai. Mal sabem eles que logo abaixo deles no necrotério da família, um antigo mal com planos sinistros para o feto se esconde dentro de um cadáver misterioso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS CRÔNICAS DO MEDO 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d33220d0d8f0d7f8389941a61b58f5f16affb13e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6TIJrOL5HFcGDE0ZMqTtt0zmnuN.jpg</thumbnail>
