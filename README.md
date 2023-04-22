@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] RAINHA DE ESPADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d62523c637aac551a9d3808cff3441f0ed6e792</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/amo0kVRHtc7Ju4ngqCJKfTzCOa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> De acordo com a lenda, uma entidade sinistra conhecida como Rainha de Espadas pode ser convocada por meio de um antigo ritual. Quatro adolescentes invocam a Rainha de Espadas, mas eles nunca poderiam imaginar os horrores que os aguardam.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MORTE DO DÊMONIO: A ASCENSÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFCA56B6289F31510952C061FA2BA4A615640573</link>
