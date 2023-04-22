@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A MORTE DO DÊMONIO: A ASCENSÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFCA56B6289F31510952C061FA2BA4A615640573</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8QJcLl8rpOlA3ys6Towbcxbu3UB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Morte do Demônio: A Ascensão é um filme de terror slasher que faz parte da clássica franquia A Morte do Demônio, que teve o primeiro título lançado em 1981. No filme, Beth (Lily Sullivan) vai até Los Angeles para visitar sua irmã mais velha, Ellie (Alyssa Sutherland), que mora com os três filhos em um pequeno apartamento. Com uma relação distante, essa seria a oportunidade para uma reaproximação entre as irmãs. Porém, o reencontro toma um rumo macabro quando elas encontram um livro antigo que dá vida a demônios possuidores de carne. Agora, para sobreviverem, serão forçadas a enfrentar uma versão aterrorizante da família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OFERENDA AO DÊMONIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce566e9ce33b87cfaa957ac47b917242159cbd8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lI8sI9pQuJmdYJgp6JuPIPg7Rqx.jpg</thumbnail>
