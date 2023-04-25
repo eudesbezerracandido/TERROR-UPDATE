@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] POSSUIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b72065ab169cffbc924d219c12e0566dcad26ce</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m8c8LHGadYj5imgYbj0NZgUv76B.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A viagem de um casal recém-noivo toma um rumo aterrorizante quando eles encontram uma antiga força maligna que possui os homens lentamente, removendo suas identidades.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PÂNICO 6 ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:832B2AE412B51E89B0DCD6A6B3303BBA28513FE9</link>
