@@ -1,6 +1,13 @@
 # TERROR-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] DUAS BRUXAS: A HERANÇA DIABÓLICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e6b8709b408a54b3c3b9b088cd5d1b84d1f3967</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x8LakQDfr8xioRAI28G8rmQb1Nu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher grávida está convencida de que foi amaldiçoada por uma bruxa. Enquanto outra mulher, com impulsos violentos, espera herdar os poderes de sua bisavó. Duas gerações de bruxas e as terríveis consequências para aqueles que cruzam seu caminho.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] POSSUIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
