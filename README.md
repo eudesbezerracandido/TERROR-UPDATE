@@ -1,6 +1,16 @@
 # TERROR-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] DRÁCULA - ELE AINDA ESTÁ VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49505bf377fc55ddce8ba2e69a98c151f8ccd3bd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9nbw6eAYOhYEjI1wODekAG6svZF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Drácula – Ele Ainda Está Vivo Torrent – A detetive Amelia Van Helsing está em uma busca desesperada pelo assassino responsável por uma série de assassinatos terríveis contra mulheres jovens. As coisas só pioram quando todas as evidências levam ao aparentemente intocável Conde Drácula.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUAS BRUXAS: A HERANÇA DIABÓLICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e6b8709b408a54b3c3b9b088cd5d1b84d1f3967</link>
