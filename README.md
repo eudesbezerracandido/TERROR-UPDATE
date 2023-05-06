@@ -1,7 +1,13 @@
 # TERROR-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] JOVENS FEITICEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:253836293fc4a199d16eaa36a44c578baf25e649</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k7SJYfXvz0152eMUtuy0OS8CYBn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando vários jovens começam a morrer de maneiras horripilantes durante a famosa festa de luau de inverno de uma casa de fraternidade universitária, os sobreviventes tentam se salvar enfrentando a entidade maligna que se apoderou da casa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DRÁCULA - ELE AINDA ESTÁ VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
