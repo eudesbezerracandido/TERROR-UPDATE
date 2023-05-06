@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] PEARL: UMA HISTÓRIA DE ORIGEM X [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:005b8cb33b7488771605dbf5724cf1f24db50c66</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/unS7q9USDwdX9mqmuxcjHJsczA2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Presa na fazenda isolada de sua família, Pearl deve cuidar de seu pai doente sob o olhar amargo e autoritário de sua mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, as ambições, tentações e repressões de Pearl colidem, na impressionante história de origem inspirada em technicolor da icônica vilã de X.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JOVENS FEITICEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:253836293fc4a199d16eaa36a44c578baf25e649</link>
