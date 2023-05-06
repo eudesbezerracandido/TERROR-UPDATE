@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VERÃO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac5c010edfe44c6c329860a677b5ee9173b72c69</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vwjzdQhY8JbHXHPcnkSWZWfggkK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em algum lugar do litoral paulista, os adolescentes Lucas e Martin se apaixonam enquanto investigam o desaparecimento de um garoto local, mas seu romance é ameaçado por forças sinistras que se escondem por trás daquela paisagem idílica e veranil.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PEARL: UMA HISTÓRIA DE ORIGEM X [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:005b8cb33b7488771605dbf5724cf1f24db50c66</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/unS7q9USDwdX9mqmuxcjHJsczA2.jpg</thumbnail>
