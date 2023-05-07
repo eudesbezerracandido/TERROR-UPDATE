@@ -1,6 +1,16 @@
 # TERROR-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] O ASCENSORISTA DO DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0490ffda61c63f6f58584d11a248a4df4efeb83a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u3uwWkNTFwvJ7CDiS5kovIFt4fz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A amiga da estudante universitária Trang desaparece repentinamente depois que ela foi vista pela última vez jogando um jogo ritual em um elevador. Ela e seu primo investigam o lugar onde a garota desapareceu e ficam obsessivamente envolvidos com o que pode ser uma porta para um terrível mundo sombrio. A exploração fica ainda mais sombria quando eles iniciam um emocionante jogo de gato e rato com alguém – ou algo – que quer pegá-los.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FESTRUA-ME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4f7d7b53a89c4ad286674ab59e4ff6d40bc2b8d</link>
