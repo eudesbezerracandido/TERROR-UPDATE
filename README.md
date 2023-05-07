@@ -1,6 +1,13 @@
 # TERROR-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] FESTRUA-ME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4f7d7b53a89c4ad286674ab59e4ff6d40bc2b8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lhP3sm0RaDCPYBbXaFDkq8hvHpm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alexandra está relutante em fazer parte do “Slasher Sleepout”, um evento extremo, parte camping, parte casa assombrada, parte escape room.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VERÃO FANTASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
