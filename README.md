@@ -1,7 +1,13 @@
 # TERROR-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] SAINT MAUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08fe27098a0fcd35eee306e596ee6b9f36ece7d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w2J7sk5ZFP1yFHLKCbe3YGnXPYA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Maud (Morfydd Clark) é uma jovem enfermeira religiosa que se torna perigosamente obcecada em salvar a alma de sua glamourosa paciente Amanda (Jennifer Ehle).</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O ASCENSORISTA DO DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
