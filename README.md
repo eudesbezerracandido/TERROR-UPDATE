@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ARANHA GIGANTE NO SOTÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0134ec74cf8da03b377411d68cbee05e61cc67bf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xyVWh1uYJZZT6gzrvN2kLCGdVLZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Um ninho mortal de aranhas se esconde no sótão – E o ninho está prestes a ser acordado por um repórter e seus colegas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ASCENSORISTA DO DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0490ffda61c63f6f58584d11a248a4df4efeb83a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u3uwWkNTFwvJ7CDiS5kovIFt4fz.jpg</thumbnail>
