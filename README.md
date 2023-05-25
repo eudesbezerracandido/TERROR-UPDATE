@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DE HUMPTY DUMPTY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8f4a9831f6fc3091723c6b80066f8c495149a79</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qWIaoxdlJY83EPtWn7ykxavsLp9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma boneca velha aparentemente volta à vida para causar estragos.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] SAINT MAUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08fe27098a0fcd35eee306e596ee6b9f36ece7d4</link>
