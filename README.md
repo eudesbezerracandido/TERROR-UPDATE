@@ -1,6 +1,12 @@
 # TERROR-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] O GÊNIO E O MOSTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae62388671e6fa994a6cb77c26876bd5a97c1a8c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yUwCjvZJBedTLJ6JQxHmyPEq24j.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Mitch Stockridge é um escritor de livros de autoajuda, que inspiram pessoas do mundo inteiro. O que estas pessoas não sabem é de onde ele tira suas brilhantes ideias. Mitch está disposto a pagar o alto preço do sucesso, alimentando o monstro que existe dentro de todos nós.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DE HUMPTY DUMPTY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
