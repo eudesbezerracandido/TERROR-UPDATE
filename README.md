@@ -1,5 +1,15 @@
 # TERROR-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] NINHO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ada11bd4382628c2e12d2d237671a5f87af4c8a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wcekJsh91NvpuTZl3UQDCHMZGjv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Tinja, de 12 anos, e ginasta, está desesperada para agradar a mãe, uma mulher obcecada em apresentar a imagem de uma família perfeita. Uma noite, Tinja encontra um ovo estranho e leva para seu quarto, sem contar para ninguém da família. Mas estranhos acontecimentos fazem com que Tinja mude para algo animalesco. Porém quando o ovo choca, o que sai de dentro é inacreditável.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O GÊNIO E O MOSTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae62388671e6fa994a6cb77c26876bd5a97c1a8c</link>
