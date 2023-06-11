@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] CAMINHOS CRUZADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0491F7C032391E311D0F9D7AA4FBD145B8AE4A52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pdFBSwGBGz1NABTGLXYzbmekh5T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O escritor de livros de autoajuda Tommy Carter (Anthony Mackie) é sequestrado por Angel Sanchez (Forest Whitaker), um atormentado fã. Sanchez reinterpreta a obra de Carter e usa as próprias teorias do autor para aterrorizá-lo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRIMEIRA COMUNHÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e569e2b5a21410ff53b4c8d7844edeed721b7a0c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AdI2MkMriHeay5AKUytfnW8oGct.jpg</thumbnail>
