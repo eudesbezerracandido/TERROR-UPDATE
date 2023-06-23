@@ -3,6 +3,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] PRESOS NO GELO III [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CDBA55F72B1791B80DE46734C18065172159439</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7SQt54nIsyVsWioznQr4MQfKUMl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal que administra o hotel em Jotuheimen está vendo os negócios irem de mal a pior por causa de eventos estranhos que estão acontecendo no local. Suspeitando que seu filho poqueno pode estar por trás disso, eles decidem trancá-lo no porão do hotel. Misteriosamente, o casal desaparece depois de uma avalanche e o menino passa a viver sozinho, como um animal, à espreita para atacar quem aparecer no seu caminho.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O GRANDE TSUNAMI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
