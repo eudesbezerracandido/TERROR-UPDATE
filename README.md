@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O GRANDE TSUNAMI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24a2526babab04837aae0e431ffd54cff41a080f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xKWAZSjfr8dHyewirbR9NMeTz9j.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um súbito tsunami foi um choque, prendendo Jiang Peng e sua filha, Jiang Xiao Hu, em Chinatown, no Sudeste Asiático. Os dois, com outros habitantes, se armaram para lutar contra o terrível monstro que se seguiu. No entanto, após a luta de vida ou morte, eles encontraram surpreendentemente uma calamidade provocada pelo homem em vez de um desastre natural.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAMINHOS CRUZADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0491F7C032391E311D0F9D7AA4FBD145B8AE4A52</link>
