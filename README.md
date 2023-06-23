@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce3450a4835108c83c02ce74d13e99723fe6a2c1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3RU5zKMisCYvkMw2ruTmq1XHJkg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de jovens marginalizados, foram humilhados e torturados. Agora, é a vez deles, e a vingança será terrível, levando adiante de seu plano macabro: suas vítimas sofrerão ao ponto de preferirem estar mortas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRESOS NO GELO III [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CDBA55F72B1791B80DE46734C18065172159439</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7SQt54nIsyVsWioznQr4MQfKUMl.jpg</thumbnail>
