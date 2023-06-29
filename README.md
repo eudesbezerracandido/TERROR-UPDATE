@@ -1,5 +1,14 @@
 # TERROR-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DOS TEMPLÁRIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f314273f90980b59970fed1b94152f1332264c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tzIWVbyWldJKxL9J9YWNLknrqAq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No século XIV, um grupo de cavaleiros templários é capturado durante um ritual satanista e juram vingança antes de serem executados pelos moradores locas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O MISTÉRIO DA ILHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a9af4162e6e7248c95203cafca719290d77c073</link>
