@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MARGAUX [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89118160a9e9bbe7c36103fd98df7911c56abc74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto um grupo de veteranos comemora seus últimos dias de faculdade em uma casa inteligente, o sistema de IA altamente avançado da casa, Margaux, começa a assumir uma presença mortal. Um fim de semana de festa despreocupado se transforma em um pesadelo distópico quando eles percebem os planos de Margaux de eliminar seus inquilinos de uma forma ou de outra. O tempo começa a se esgotar enquanto o grupo tenta desesperadamente sobreviver e ser mais esperto que a casa inteligente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O NASCIMENTO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3afe64f4fb5081094e001577d7c1a48d7dac84c9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dyZF3BqHD24J4UTdwK8OMuK5mfI.jpg</thumbnail>
