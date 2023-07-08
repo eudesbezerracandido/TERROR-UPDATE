@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TUBARÃO: MAR DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aab527f6bf38c085bfa92e5649277ba9cb6297f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qUBOPVsMT9OgsUVqZWUBLkgYrb6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de jovens que está passando as férias no México. Depois de uma noite de muita curtição, os amigos furtam dois jetskis e os levam para o alto-mar, mas eles acabam batendo em um acidente terrível. Depois que um dos jetskis afunda, o grupo se encontra a mais de três quilômetros da costa, com um jetski quebrado e um amigo gravemente ferido. Sem poder nada de volta para terra firme e com predadores circulando nas agitadas águas abaixo, o verdadeiro terror começa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MARGAUX [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89118160a9e9bbe7c36103fd98df7911c56abc74</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg</thumbnail>
