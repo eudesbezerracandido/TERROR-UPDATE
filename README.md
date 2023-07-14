@@ -1,7 +1,13 @@
 # TERROR-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] THE CURSED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56fbf055572fbcb3624950324b61563fbf28ac6b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/syYvaJnge7S1CxfwCgETmpmS34i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na França rural do século XIX, uma misteriosa entidade sobrenatural ameaça uma pequena cidade. John McBride, um patologista, chega à cidade para investigar o perigo e exorcizar alguns de seus próprios demônios no processo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TUBARÃO: MAR DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
