@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] CLUB DA MORDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a4eaf3a214603053d80b593e2b534b481fb39d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lOMk1qWpakZdoVGYe2VlFfJCvjF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Laurel é uma adolescente transexual que acaba de se mudar para Los Angeles e conhece um grupo de quatro vampiras feministas. Recém transformada em uma vampira, ela agora percorre as ruas de Los Angeles atrás de predadores homens, na companhia de suas mais novas amigas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE CURSED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56fbf055572fbcb3624950324b61563fbf28ac6b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/syYvaJnge7S1CxfwCgETmpmS34i.jpg</thumbnail>
