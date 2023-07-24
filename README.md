@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] NINHO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ada11bd4382628c2e12d2d237671a5f87af4c8a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wcekJsh91NvpuTZl3UQDCHMZGjv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Tinja, de 12 anos, e ginasta, está desesperada para agradar a mãe, uma mulher obcecada em apresentar a imagem de uma família perfeita. Uma noite, Tinja encontra um ovo estranho e leva para seu quarto, sem contar para ninguém da família. Mas estranhos acontecimentos fazem com que Tinja mude para algo animalesco. Porém quando o ovo choca, o que sai de dentro é inacreditável.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CLUB DA MORDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a4eaf3a214603053d80b593e2b534b481fb39d5</link>
@@ -95,14 +104,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/AdI2MkMriHeay5AKUytfnW8oGct.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Espanha, final dos anos 1980. A recém-chegada Sara tenta se encaixar com os outros adolescentes nesta pequena cidade unida na província de Tarrgona. Se ao menos ela fosse mais parecida com seu melhor amigo extrovertido, Rebe. Eles saem uma noite em uma boate, a caminho de casa, eles se deparam com uma menina segurando uma boneca, vestida para sua primeira comunhão. E é aí que o pesadelo começa.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] NINHO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ada11bd4382628c2e12d2d237671a5f87af4c8a</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/wcekJsh91NvpuTZl3UQDCHMZGjv.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Tinja, de 12 anos, e ginasta, está desesperada para agradar a mãe, uma mulher obcecada em apresentar a imagem de uma família perfeita. Uma noite, Tinja encontra um ovo estranho e leva para seu quarto, sem contar para ninguém da família. Mas estranhos acontecimentos fazem com que Tinja mude para algo animalesco. Porém quando o ovo choca, o que sai de dentro é inacreditável.</info>
 </item>
 
 <item>
