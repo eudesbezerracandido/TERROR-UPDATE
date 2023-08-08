@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] INTENÇÕES SÁDICAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3e2e144ceebd23314c132ec2816ed93f0da6029</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hNLb5q6RBUZFcMiz1Q6ZTP9GXY8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Stu, um músico psicótico, convida a jovem Chloe e um colega de sua banda para uma mansão remota, onde promete a eles uma noite de heavy metal e muitas tentações. Mas o que os dois convidados não esperam é que Stu esconde intenções muito mais sádicas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PYEWACKET ENTIDADE MALIGNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
