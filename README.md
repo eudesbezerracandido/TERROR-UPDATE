@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PYEWACKET ENTIDADE MALIGNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7b4ce1dcd39261a1adefdc508373cae19a5bcfe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4VdvRTitRjRN7oKMc8cOPg7bGhz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma adolescente angustiada desperta algo no bosque em que vive, quando ela ingenuamente executa um ritual oculto para evocar uma bruxa para matar a mãe.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NINHO DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ada11bd4382628c2e12d2d237671a5f87af4c8a</link>
