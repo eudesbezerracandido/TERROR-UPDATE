@@ -1,6 +1,13 @@
 # TERROR-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] BANIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ed8015b4e60817e0739be05b8b5595ea5382cd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6TKhFSJW09z2k6WPxB10ey2GMuC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma doença desconhecida dizima a maior parte da população mundial, um homem com sangue único é isolado para estudo. Temendo pela segurança de sua esposa, ele quebra sua quarentena – em um mundo invadido por monstros infectados e uma agência sombria os caçando.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INTENÇÕES SÁDICAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
