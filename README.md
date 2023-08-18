@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] NÃO DESCANSE EM PAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b824bdc88c931c739fd955a79e25e84dec4fbb10</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jx2zZmnofr8i1Tz9jA8rngpsfz4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ano após perder sua esposa em um acidente de carro, Jamie convence sua cunhada a retornar ao local do acidente e ajudá-lo a realizar um estranho ritual para trazer sua esposa de volta à vida. Mas conforme a noite avança, fica claro que ele possui outras intenções.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BANIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ed8015b4e60817e0739be05b8b5595ea5382cd</link>
