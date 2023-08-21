@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] WOLVES  BREVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ZcNJdKqoJXKGGvXUE7BV281KlS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem que se transforma em lobisomem é falsamente acusado de assassinar seus pais. Na fuga, ele chega a uma cidadezinha chamada Lupine Ridge, onde eventos sobrenaturais acontecem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO DESCANSE EM PAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b824bdc88c931c739fd955a79e25e84dec4fbb10</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jx2zZmnofr8i1Tz9jA8rngpsfz4.jpg</thumbnail>
