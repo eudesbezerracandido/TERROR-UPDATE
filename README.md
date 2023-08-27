@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O CLUBE DE LEITORES ASSASSINOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e150d804e01a01c63351ad2b9d8c83e109a49a4c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rn7PFMpdUUEPxaf6AYMVF91DUfJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de oito amigos fãs de terror precisarão lutar por suas vidas ao fugir da perseguição de um palhaço assassino, que sabe mais segredos deles do que os amigos podem imaginar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] WOLVES  BREVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8ZcNJdKqoJXKGGvXUE7BV281KlS.jpg</thumbnail>
