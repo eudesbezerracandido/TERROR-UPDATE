@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A MÉDIUM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3584256e4d8b408929ea5d8ce366d525171ee1dd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oCPAJFtmdjlMuye8hVI7LAjymgO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história horripilante sobre a herança de um xamã na região de Isan, na Tailândia, onde a Deusa que parece ter possuído um membro da família acaba não sendo tão benevolente quanto pensavam ser.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CLUBE DE LEITORES ASSASSINOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e150d804e01a01c63351ad2b9d8c83e109a49a4c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rn7PFMpdUUEPxaf6AYMVF91DUfJ.jpg</thumbnail>
