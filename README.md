@@ -1,6 +1,13 @@
 # TERROR-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] JACK - A CAIXA MALDITA 2-O DESPETAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b5740d3a88e0f6e30790c7e06273e1c6422898b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uRzhyPrwsfHxSKIvywkKw0Noy6D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma mulher moribunda abre uma antiga caixa misteriosa, ela entra em um acordo com o demônio dentro dela que curaria sua doença em troca de ajudá-lo a reclamar seis vítimas inocentes.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MÉDIUM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
