@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] CAÇADA HUMANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff7d99926c06b31018024f87acd8b6c713294024</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eDdEa740BlFTvSSXj1QlmkUYtQr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kimberly, Owen e Brooke juntam-se aos amigos Levi e Memphis para uma viagem de caça em um rancho isolado. Mas o que o eles ainda não sabem é que os seus amigos na verdade estão caçando humanos e para sobreviver a este sádico jogo, o trio precisará adotar medidas drásticas e inesperadas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JACK - A CAIXA MALDITA 2-O DESPETAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b5740d3a88e0f6e30790c7e06273e1c6422898b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uRzhyPrwsfHxSKIvywkKw0Noy6D.jpg</thumbnail>
