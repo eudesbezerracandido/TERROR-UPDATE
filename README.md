@@ -1,6 +1,15 @@
 # TERROR-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] SONÃMBULOS 1992 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e52ce15e04d0ddbaf109472bf8de695cc304f81</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vmOjLZ80DtdiqDwB5fdsLPAo4XA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brian Krause e Alice Krige estrelam este aterrorizante conto de vampiros à caça de jovens garotas. Madchen Amick é a virgem sexualmente curiosa que se apaixona pelo novo rapaz de escola (Brian Krause) apenas para aprender, muito tarde, que ele é um sonâmbulo devorador de carne humana. A mutação transforma o garoto encantador num monstro selvagem, que se aproxima da garota para atacar sua sedutora mãe.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAÇADA HUMANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff7d99926c06b31018024f87acd8b6c713294024</link>
