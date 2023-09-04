@@ -1,6 +1,13 @@
 # TERROR-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] ISOLADOS NA PANDEMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b903d5d53608dd5dae1b3df253fc02887e68ee3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aI8ETMVoOf0GuBHWSiOjPaqhufI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a erupção de uma pandemia global, um homem barricado sozinho em casa e racionando comida começa a tentar resgatar uma vizinha depois de uma enxame de hordas de Screamers mortos-vivos invadir seu complexo de apartamentos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SONÃMBULOS 1992 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
