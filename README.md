@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ALDEIA MALDITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cbf06f2706759548dabbc54a7283c744e895b6a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nf4w2flxKHpzX7C2OCTiqzUl9xn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A anciã de um vilarejo luta contra a loucura e o macabro para salvar seu povo de um monstruoso ser que chega para tomar conta do local e levar todos para a escuridão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ISOLADOS NA PANDEMIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b903d5d53608dd5dae1b3df253fc02887e68ee3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aI8ETMVoOf0GuBHWSiOjPaqhufI.jpg</thumbnail>
