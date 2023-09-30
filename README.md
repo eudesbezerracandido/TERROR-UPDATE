@@ -1,6 +1,18 @@
 # TERROR-UPDATE
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] INVASÃO ZUMBI 2: PENÍNSULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c188ed4e4703fbeadaffefc3dfadfc72a8af853</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dGVUiqnahQ4ZZRchGRpO2SyhtQY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A península coreana ficou devastada após o surto de zumbis que atingiu os passageiros de um trem-bala com destino a Buscan há quatro anos. Com isso, um ex-soldado que conseguiu fugir do país, Jung-seok, tem a missão de retornar e acaba encontrando alguns sobreviventes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TERROR NO DESERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b903d5d53608dd5dae1b3df253fc02887e68ee3</link>
