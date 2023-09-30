@@ -14,6 +14,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] INVASÃO ZUMBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e2c90e6b3d2788529b69403858cba72ef2b7df6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/QqHtwk0oHYed26zra9WGQGyBSm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um trem de alta velocidade com destino à cidade de Busan, um vírus que transforma as pessoas em zumbis, se espalha. A cidade conseguiu com sucesso defender a epidemia, agora eles devem lutar pelas suas sobrevivências.</info>
+</item>
+
+
+<item>
 <title>[COLOR silver][B] TERROR NO DESERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b903d5d53608dd5dae1b3df253fc02887e68ee3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/md4YiWgaR40nicvbPIq7BCE4qQY.jpg</thumbnail>
