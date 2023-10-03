@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SEQUSTRO NOTURNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fafde8287b5099c2889bdd5283456a7fe25249d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cQtu28vwaWvxcYvnR1E2g7xB9dw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Executiva workaholic, Young-woo costuma trabalhar até tarde da noite. Quando é sequestrada no estacionamento pelo segurança do prédio em que trabalha, ela precisa lutar para salvar a própria vida.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INVASÃO ZUMBI 2: PENÍNSULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
