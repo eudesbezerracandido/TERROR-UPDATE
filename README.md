@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] OUTRA ALMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f0cedb51d87d66f61918a267d00cda3baa02425</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hFV6FXi8oDOfbXuBKODafOev06K.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida de uma célebre autora é ameaçada quando sua melhor amiga e musa revela o segredo obscuro por trás da origem de seu primeiro romance, apresentando a todos uma história de sexo, mentiras e traição.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DEZ MINUTO PARA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c74cd387eed06d62b4798c0357932ff61332dea</link>
