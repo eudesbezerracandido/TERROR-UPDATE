@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] DEZ MINUTO PARA MEIA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c74cd387eed06d62b4798c0357932ff61332dea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8jgWWwrlGSHpWZfVkR6MJzXZU74.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Devido a uma forte tempestade, uma veterana apresentadora fica presa em uma estação de rádio. Depois de ser mordida por um morcego, ela passa a aterrorizar os seus colegas de trabalho enquanto lentamente se transforma em uma vampira.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEQUSTRO NOTURNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
