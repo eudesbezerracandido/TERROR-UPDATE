@@ -2,6 +2,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] PERIGO NO RECIFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ca001afaa259c9af32e5507ee70aef208a4c779</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1W8IGuXEUrAYHaR0wQn3MyZiQFo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um esforço para se curar depois de testemunhar o terrível assassinato de sua irmã, Nic viaja para um resort tropical com suas amigas para uma aventura de caiaque e mergulho. Apenas algumas horas em sua expedição, as mulheres são perseguidas e depois atacadas por um grande tubarão branco. Para sobreviver, elas precisarão se unir e Nic terá que superar seu estresse pós-traumático, enfrentar seus medos e matar o monstro.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O MOTORISTA DE APLICATIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b43421e28588f3cf92e038c4229b5fccb9bac36e</link>
