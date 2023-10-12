@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O MOTORISTA DE APLICATIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b43421e28588f3cf92e038c4229b5fccb9bac36e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lfcR6c3MPoScJnzqfZCdKfNZVqB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após uma separação complicada, Andy Escobedo decide começar do zero, mudando-se de Austin para Los Angeles. Ansioso para fazer novas conexões, ele faz amizade com Roger, um motorista incomum de compartilhamento de veículos. Mas quando o comportamento de Roger fica muito estranho para seu conforto, Andy o dispensa, optando por se concentrar em um relacionamento inicial com sua nova namorada, Sam. Isso confunde Roger, que começa a atormentar Andy, garantindo que sua estada em Los Angeles seja curta.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OUTRA ALMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
