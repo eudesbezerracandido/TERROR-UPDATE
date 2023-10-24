@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] NÃO DURMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c054243ec61f366cbd6d3212f862b352cbfc6a5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kIZGBjlAY2lvpUBPnUCtPLVu51X.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Shawn e Zach são dois jovens amantes que se mudam para uma nova casa. À medida em que estranhos eventos começam a ocorrer, Zach relembra de episódios da sua infância que podem ter sido causados por uma possessão demoníaca.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DE VILLISCA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
