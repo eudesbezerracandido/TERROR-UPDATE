@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DE VILLISCA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86a456bec06e800a4b4d8d4f088a3b04daad5e9a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zqWyPODcqBGvw6FOoCWtJt6bP8T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na noite de junho de 1912, oito pessoas foram mortas a machadadas na pequena cidade de Villisca. Mais de um século depois, três amigos obcecados por histórias de fantasmas visitam a casa à procura de respostas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PERIGO NO RECIFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
