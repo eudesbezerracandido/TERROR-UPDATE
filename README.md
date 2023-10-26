@@ -2,6 +2,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] O DIA DA COLHEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b71dd18032470e78a00c8c8dcffd7b83032a6f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rQHit8sXp0ncEMwnESmx4C7QFQW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Terríveis acontecimentos preocupam os habitantes do Morvan: uma criança desapareceu e uma fera está atacando o gado. Jules, uma criança recém-chegada à aldeia, pressente algo sinistro perto de sua casa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NÃO DURMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c054243ec61f366cbd6d3212f862b352cbfc6a5</link>
