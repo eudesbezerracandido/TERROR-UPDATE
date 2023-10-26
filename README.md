@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] CONTOS SOMBRIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:593a2195f4c4d91d8a38c05387acf16acdaebfda</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2hXLV4PMgu8blPtvGEDlIVumwul.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Contos Sombrios Torrent – Quando Chris e Andy encomendam uma modelo de um serviço de acompanhantes, eles descobrem que algo está estranhamente errado com Natasha, algo mortalmente errado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O DIA DA COLHEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
