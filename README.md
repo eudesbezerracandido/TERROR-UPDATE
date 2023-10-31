@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B]  NOITE DAS VAMPIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47eaf64f37cbd3d72214fe4702ba1797ca37d092</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oWLAKd00ttDh4d5ZUEV3qGWKTqK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>‘Haunted Honeymoon’ encontra ‘My Best Friend is a Vampire’ e ‘Clue’. Quando três lindas damas conseguem chamar a atenção de um grupo de punks com suas vozes encantadoras. Eles se tornam os convidados sortudos, ou melhor, as vítimas da casa de Valice. No entanto, a situação muda repentinamente quando as senhoras percebem que são na verdade as infelizes vítimas da loucura que elas mesmas criaram.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UM SHOW DE MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
