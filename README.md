@@ -3,6 +3,19 @@
 
 
 
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] DAMPYR - O FILHO DO VAMPIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8614a0f5f4e2ce4f90e043f879c7b1f55c905421</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/msPaqyt06Na9wT6hIyUZak3Smfv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Assombrado por pesadelos, o vigarista Harlan Draka vaga pelo campo devastado pela guerra dos Bálcãs, ganhando dinheiro livrando aldeões supersticiosos de monstros imaginários. Mas depois de ser contratado por soldados que estão sob ataque de vampiros reais, Harlan descobre a verdade: ele é um Dampyr, meio humano e meio vampiro. Enquanto tenta parar um Mestre da Noite e seu exército de mortos-vivos, Harlan terá que aprender a gerenciar seus novos poderes e descobrir suas origens.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B]  NOITE DAS VAMPIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47eaf64f37cbd3d72214fe4702ba1797ca37d092</link>
