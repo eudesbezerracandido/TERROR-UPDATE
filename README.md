@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O RIO DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12468aad81402b3d4f22611ad02399b541106da1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AaXAYapF1bmSMekElaCuj1P1Xon.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um agitado instrutor de rafting perde seus clientes nas florestas escuras de um vale tomado pelo sobrenatural. Encontrá-los será um desafio. Presos pelas raízes de seu passado pagão e submersos em paixões inconscientes, surge a questão: será que eles querem ser salvos?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O EXOCISTA- O DEVOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75c193e0780d7ed754b0e7e778594d53e64057af</link>
