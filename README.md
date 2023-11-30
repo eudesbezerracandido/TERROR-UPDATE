@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O EXOCISTA- O DEVOTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75c193e0780d7ed754b0e7e778594d53e64057af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sJtfth9oaDWx1PwzT0vGKNXwjKz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Com a morte da esposa grávida em um terremoto no Haiti, há 12 anos, Victor Fielding (Leslie Odom Jr.) tem criado sua filha Angela (Lidya Jewett) sozinho. Mas quando Angela e sua amiga Katherine (Olivia ONeill) desaparecem na floresta e retornam três dias depois sem memória do que aconteceu nesse meio tempo, uma série de eventos obrigará Victor a confrontar o mal e, em seu terror e desespero, buscar a única pessoa viva que testemunhou algo parecido antes: Chris MacNeil (Ellen Burstyn).</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O JANTAR ESTA SERVIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
