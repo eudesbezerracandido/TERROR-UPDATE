@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O JANTAR ESTA SERVIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ec112f8ffb66ccfd432482213991703c8e6f43c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d0Ebzxx0YrBM7KP8SCmeIqkER5t.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma neta apática, Chance Sinclair, é condenada a viver com seu draconiano avô, August, após um incidente violento na escola e começa a questionar a origem da imensa riqueza e poder de sua família.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DAMPYR - O FILHO DO VAMPIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
