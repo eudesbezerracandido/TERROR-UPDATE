@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] VISÕES MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aa807a4a482f6618a8e7d9a4d5b8a1305b65e89</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/aG68lR36HbEASelSpwK7PHi8N9H.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Randy (Johnny Berchtold, GASLIT) prefere uma vida discreta, mas seu colega de trabalho Benson (Kyle Gallner, SORRIA) entra numa onda repentina de violência e ele é obrigado a enfrentar seus medos e confrontar seu passado problemático para sobreviver.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O RIO DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12468aad81402b3d4f22611ad02399b541106da1</link>
