@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] POSSESSÃO DEMONIACA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a88fb6f45bcc5bb6b42cf5b6b697ad213036364</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yR4jOsVYdXoEUvYkgCx2ymbpEwa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Jacob Chandler é um homem comum com um dom extraordinário. Ao lado de seu sobrinho, ele ganha a vida exorcizando demônios. Quando o seu caminho se cruza com o da namorada de seu sobrinho, ele percebe que não é o único com esse dom.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAÇADORES DE LOBSOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0e3afabc5f354746dc2d1bbc5b415010db4b8e7</link>
