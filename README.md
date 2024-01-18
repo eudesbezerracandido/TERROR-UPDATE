@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] CAÇADORES DE LOBSOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0e3afabc5f354746dc2d1bbc5b415010db4b8e7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nCxQiLsYXHAPls4RyVsv0Pcok4Q.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando o ataque de um animal deixa um corpo mutilado na floresta, o detetive Connor Ryan pede ajuda à Maggie Talbot, uma especialista em lobos, para desvendar o caso. O passado de Maggie envolvendo os animais e o seu desejo em reencontrar seu pai desaparecido, levam ela a acreditar que se trata de um ataque de lobisomem.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VISÕES MORTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
