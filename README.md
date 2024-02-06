@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] FEED-O TERROR ESTÁ ONLINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90e7864db6a427508792693e21a6c1f8a4e39afa</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/b8p8J2kRZdcAyKy7h3UU2YefMcr.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um grupo de influenciadores digitais é contratado para criar conteúdo sobre o mito antigo de uma bruxa norueguesa. Porém, acabam presos em uma pequena ilha aterrorizados pelo ser mitológico.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] POSSESSÃO DEMONIACA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
