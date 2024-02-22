@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DA TORRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AKNARFUM44F5XODXXFHHQUBRG5J4W2FX</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/jqzTf5VxtmJ3YMX6ScgWAQcwNTc.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando os restos mortais de dois príncipes são descobertos na Torre de Londres, um padre decide colocar as suas crenças de lado e se aliar a um misterioso prisioneiro com poderes sobrenaturais. Juntos, eles devem solucionar o mistério por trás da morte dos irmãos, que continuam a assombrar o castelo em busca de vingança.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FEED-O TERROR ESTÁ ONLINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90e7864db6a427508792693e21a6c1f8a4e39afa</link>
