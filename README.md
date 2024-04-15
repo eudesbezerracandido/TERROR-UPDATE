@@ -7,6 +7,15 @@
 
 
 <item>
+<title>[COLOR silver][B] COLEÇÃO - UM LUGAR SILENCIOSO I II ( III BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2053D4FF3A21BD2721EFBB1DD2E06D6E80FB9D9E$nome=UM LUGAR SILENCIOSO 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KW7NGTGYJ2PWW2QUVU4WJ6QHITN7XN42$nome=UM LUGAR SILENCIOSO 2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5yWBWG9S8umBAxp5rrXQVXA6ug2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma série de filmes que gira em torno de pessoas lutando para sobreviver num mundo pós-apocalíptico habitado por criaturas extraterrestres cegas com um agudo sentido de audição.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SLEEP - O MAL NUNCA DORME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13f3fc93b0fc5da488da1b49c825ad090fed29ff</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/hPkKVF1txOCiYvhx0PZkQADvX3P.jpg</thumbnail>
