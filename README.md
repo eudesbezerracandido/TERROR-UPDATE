@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] SLEEP - O MAL NUNCA DORME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13f3fc93b0fc5da488da1b49c825ad090fed29ff</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hPkKVF1txOCiYvhx0PZkQADvX3P.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma jovem e grávida esposa deve descobrir como acabar com os pesadelos de sonambulismo do marido antes que ele prejudique a si mesmo ou à sua família.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DA TORRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AKNARFUM44F5XODXXFHHQUBRG5J4W2FX</link>
