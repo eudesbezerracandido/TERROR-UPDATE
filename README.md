@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DE HANNAH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1135eb56b8ab0d84d4f304c2ea73d05683f394df</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/uCOMiPwygEPSuUjatADcLMDoRnL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Hannah e Matt, um jovem casal em suas primeiras férias juntos, descobrem rapidamente que podem não concordar. Sentindo-se como se tivesse decepcionado o namorado, Hannah pede a ajuda de uma misteriosa cigana, na esperança de que os problemas do casal possam ser superados. No entanto, quando Matt acorda e descobre que sua namorada desapareceu, as intenções sinistras da cigana ficam muito claras.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] COLEÇÃO - UM LUGAR SILENCIOSO I II ( III BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2053D4FF3A21BD2721EFBB1DD2E06D6E80FB9D9E$nome=UM LUGAR SILENCIOSO 1</link>
