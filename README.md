@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] THE CURSED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56fbf055572fbcb3624950324b61563fbf28ac6b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/bewmBcjJxHeipS1PNu9Lfyvt3zY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Na França rural do século XIX, uma misteriosa entidade sobrenatural ameaça uma pequena cidade. John McBride, um patologista, chega à cidade para investigar o perigo e exorcizar alguns de seus próprios demônios no processo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DE HANNAH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
