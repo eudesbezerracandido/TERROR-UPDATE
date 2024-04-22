@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] JACK  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CZBJ55HT6CTO5P7D47N2JQMJNZ35CKL3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yq4ekYYxchTqOJd8kULWID8CkM3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Londres, 1888 e a cidade está com medo. Uma série de assassinatos aterrorizou os residentes de Whitechapel e o inspetor Reid, da Scotland Yard, não tem pistas na caça ao assassino. À medida que a contagem de cadáveres aumenta e com a cidade em pânico, o inspetor Reid deve mergulhar na escuridão de Londres para encontrar um assassino que pode estar muito mais perto de casa do que qualquer um imagina.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE CURSED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56fbf055572fbcb3624950324b61563fbf28ac6b</link>
