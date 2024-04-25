@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DO TITANIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97c7aea2b11b852a9d38ed858872c330ff0efd2c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rA4irW4Pf9kntxTqv9rtlYZFzD9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Embora seja uma réplica fiel ao original, o cruzeiro é construído com a mais avançada tecnologia, garantindo que não tenha chance de afundar.Quando o Titanic III chega ao destino, estranhos eventos começam a acontecer enquanto forças sombrias das profundezas sobem à superfície, aterrorizando todos a bordo e ameaçando repetir um dos maiores desastres da história.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JACK  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CZBJ55HT6CTO5P7D47N2JQMJNZ35CKL3</link>
