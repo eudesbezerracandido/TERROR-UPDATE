@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PERIGO NO RECIFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ca001afaa259c9af32e5507ee70aef208a4c779</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/uPaaVN3E7uL46nt7jDQFBLt7MZF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Após o assassinato de sua irmã, Nic, sua irmã mais nova e dois amigos buscam consolo em uma aventura de caiaque nas ilhas do Pacífico. Horas depois da viagem, as mulheres são perseguidas por um tubarão e devem se unir, enfrentar seus medos e salvar umas às outras.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO DO TITANIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
