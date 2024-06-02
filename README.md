@@ -7,7 +7,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] TURNO MALDITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d48f8a91ab156366bfcbc618c8252d62ffdee2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/fV2Y1vBMY8en0ckOzIAk2NHZU3W.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Durante sua primeira noite de trabalho em um motel, uma jovem começa a suspeitar que ela e a propriedade estão sendo assombradas por algo maligno.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PERIGO NO RECIFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
