@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A FORMA DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03b20bc21e99dcb39cabea121d666fefd5165876</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/27trSNWE8XYrokG7ef7mAv9NMc2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Fame e Phil são irmãos que retornaram do exterior e são obrigados a cumprir o período de quarentena em um hotel, onde habita uma criatura capaz de mudar de forma, podendo assumir a aparência de qualquer hóspede do local.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TURNO MALDITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
